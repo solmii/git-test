@@ -13,4 +13,4 @@
 add 하고 나서 commit 한 test.js 파일을 `git push` 명령어를 통해 master 브랜치로 push!
 
 > 🤤힝...브랜치 어렵당!
-한번 더 해보는 중!! (20/06/14)
+한번 더 해보는 중!! (20/06/14 study branch)
